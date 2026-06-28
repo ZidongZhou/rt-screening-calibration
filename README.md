@@ -21,7 +21,7 @@ The script downloads the five Zenodo CSV files into `data/raw/` and checks their
 The submitted aggregate outputs are kept under `results/`. The display items used by the manuscript are in `results/frontiers_submission/`:
 
 - `main_tables/`: Tables 1 to 10
-- `supplementary_tables/`: Supplementary Tables S1 to S11
+- `supplementary_tables/`: Supplementary Tables S1-S11.
 - `main_figures/`: Figures 1 to 4
 - `supplementary_figures/`: Supplementary Figures S1 to S4
 
