@@ -1,0 +1,9 @@
+Escalation ranking,All short-form disagreements captured (%),OCW captured (%),Elevated-score false negatives captured (%)
+Random,20.0,20.2,19.2
+Lowest confidence,24.0,5.5,53.7
+RT process score,28.3,63.7,29.3
+Confidence + RT error model,27.0,5.9,24.4
+Confidence + RT OCW model,23.1,82.2,4.9
+Confidence + RT ES-FN model,28.6,7.9,53.7
+Confidence + shuffled RT,26.8,5.7,22.0
+Oracle,43.3,100.0,100.0

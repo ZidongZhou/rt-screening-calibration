@@ -1,0 +1,23 @@
+{
+  "title": "Response-Time Process Signals for Selective Escalation in Reduced-Item Mental-Health Symptom Screening",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Zhou, Zidong"
+    },
+    {
+      "name": "Liu, Cheng"
+    },
+    {
+      "name": "Wang, Xuanhe"
+    }
+  ],
+  "license": "mit",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.10423537",
+      "relation": "cites",
+      "resource_type": "dataset"
+    }
+  ]
+}

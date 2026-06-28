@@ -1,0 +1,13 @@
+data/raw/*.csv
+data/metadata/*.csv
+data/splits/*.csv
+data/processed/*
+models/
+results/tables/predictions_*.csv
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store

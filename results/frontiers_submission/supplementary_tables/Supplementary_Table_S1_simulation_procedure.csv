@@ -1,0 +1,7 @@
+Step,Operation
+1,Fit RT winsorization thresholds and residual models on training participants only.
+2,Select scale- and budget-specific calibration parameters on validation participants only.
+3,Initialize one training-informative warm-up item per scale.
+4,"Update partial scores, uncertainty, coverage, and response-process consistency from observed items only."
+5,"Score remaining candidates using training informativeness, uncertainty, coverage, redundancy, and fixed process-quality weights."
+6,Predict scale-specific severity categories and calibrated probabilities; compute scale-wise and mean metrics.

@@ -1,0 +1,9 @@
+Item,Value,Note
+Participants,"24,292",Complete cases in the released CSV files
+Item-level records,"898,804",Participants × 37 questionnaire items
+Train / validation / test,"17,004 / 3,644 / 3,644",Disjoint participant split
+PHQ-9 distribution,"16,886 / 6,090 / 957 / 262 / 97",Minimal to severe
+GAD-7 distribution,"20,170 / 3,576 / 332 / 157 / 57",Minimal to very severe
+PSS distribution,"6,607 / 14,884 / 2,687 / 114",Low to very high
+ISI distribution,"22,090 / 1,922 / 242 / 38",No clinically significant insomnia to severe
+Score reconstruction,PSS: 1 mismatch,Released score retained as reference

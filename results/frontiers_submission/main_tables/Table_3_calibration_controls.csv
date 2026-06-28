@@ -1,0 +1,8 @@
+Calibration method,RT information,Labels fixed,Macro-F1,Brier score,ECE-L,ECE-A,NLL
+"Response-only, uncalibrated",No,Yes,0.689,0.26,0.098,0.098,0.796
+Temperature scaling,No,Yes,0.689,0.243,0.08,0.079,0.438
+One-vs-rest isotonic calibration,No,Yes,0.689,0.141,0.038,0.031,0.247
+Constant confidence softening,No,Yes,0.689,0.25,0.071,0.07,0.607
+Shuffled-RT placebo calibration,Shuffled,Yes,0.689,0.253,0.078,0.078,0.659
+True RT calibration-only,Yes,Yes,0.689,0.25,0.083,0.083,0.587
+RT score-adjusted,Yes,No,0.676,0.247,0.085,0.079,0.672

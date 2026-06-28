@@ -1,0 +1,13 @@
+Scale,Strategy,"Errors, n","OCW, n",Error capture %,OCW capture %
+PHQ-9,Lowest confidence,393,34,28.5,0.0
+PHQ-9,RT process score,393,34,12.0,14.7
+PHQ-9,Confidence + RT (OCW),393,34,8.9,50.0
+GAD-7,Lowest confidence,142,20,93.7,55.0
+GAD-7,RT process score,142,20,7.7,15.0
+GAD-7,Confidence + RT (OCW),142,20,9.9,70.0
+PSS,Lowest confidence,1563,492,23.9,0.0
+PSS,RT process score,1563,492,35.8,72.0
+PSS,Confidence + RT (OCW),1563,492,29.8,94.3
+ISI,Lowest confidence,172,33,83.7,15.2
+ISI,RT process score,172,33,15.1,21.2
+ISI,Confidence + RT (OCW),172,33,14.0,60.6

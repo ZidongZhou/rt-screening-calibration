@@ -1,0 +1,18 @@
+[tool.black]
+line-length = 100
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+select = ["E", "F", "I", "B", "UP"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rt-screening-calibration"
+version = "0.1.0"
+description = "Reproducible response-time calibration and selective-escalation pipeline for reduced-item mental-health symptom screening"
+requires-python = ">=3.10"

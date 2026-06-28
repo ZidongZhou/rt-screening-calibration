@@ -1,0 +1,3 @@
+model,fit_split,n_train_item_records,train_residual_mean,train_residual_sd
+content_adjusted,train_only,629148,-2.1683960731964378e-16,0.6474523769555443
+response_conditioned,train_only,629148,-1.4166854344883392e-16,0.6409632648970667

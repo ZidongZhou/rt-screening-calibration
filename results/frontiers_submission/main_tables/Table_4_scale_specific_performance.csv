@@ -1,0 +1,13 @@
+Scale,Variant,Macro-F1,MAE,Elevated-score recall,Brier score,ECE*
+PHQ-9,Response-only,0.713,0.108,0.969,0.202,0.082
+PHQ-9,RT calibration-only,0.713,0.108,0.969,0.204,0.088
+PHQ-9,RT score-adjusted,0.713,0.104,0.954,0.188,0.038
+GAD-7,Response-only,0.837,0.039,0.976,0.043,0.013
+GAD-7,RT calibration-only,0.837,0.039,0.976,0.042,0.012
+GAD-7,RT score-adjusted,0.804,0.038,0.964,0.043,0.014
+PSS,Response-only,0.462,0.553,0.932,0.707,0.258
+PSS,RT calibration-only,0.462,0.553,0.932,0.667,0.198
+PSS,RT score-adjusted,0.466,0.543,0.934,0.675,0.241
+ISI,Response-only,0.742,0.047,0.897,0.089,0.039
+ISI,RT calibration-only,0.742,0.047,0.897,0.089,0.034
+ISI,RT score-adjusted,0.723,0.047,0.897,0.082,0.024

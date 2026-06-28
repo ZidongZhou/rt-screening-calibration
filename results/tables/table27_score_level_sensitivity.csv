@@ -1,0 +1,7 @@
+Analysis set,"Score decisions, n",Full-score MAE,Median absolute score error,75th percentile absolute score error,"Near-threshold decisions, n",Near-threshold decisions (%),"Near-threshold disagreements, n",Near-threshold disagreements (%)
+PHQ-9,3644,0.888,0.8,1.2,1716,47.1,370,21.6
+GAD-7,3644,0.33,0.0,0.6,1055,29.0,31,2.9
+PSS,3644,8.249,5.0,11.2,1538,42.2,851,55.3
+ISI,3644,0.965,0.75,1.5,572,15.7,127,22.2
+PHQ-9 + GAD-7 + ISI (PSS excluded),10932,0.728,0.4,1.0,3343,30.6,528,15.8
+All scale decisions,14576,2.608,0.857,2.0,4881,33.5,1379,28.3

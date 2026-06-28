@@ -1,0 +1,17 @@
+scale,model,validation_nll,policy,budget,model_kind
+PHQ-9,"balanced CART, depth 6",0.392934891682489,train_selected_fixed,19,cart
+GAD-7,"balanced CART, depth 6",0.2025928113689993,train_selected_fixed,19,cart
+PSS,"balanced CART, depth 6",0.6844153046807694,train_selected_fixed,19,cart
+ISI,"balanced CART, depth 6",0.2835523894586564,train_selected_fixed,19,cart
+PHQ-9,balanced L2 one-vs-rest logistic regression,0.24112101105229666,train_selected_fixed,19,logistic_l2
+GAD-7,balanced L2 one-vs-rest logistic regression,0.12605488667196152,train_selected_fixed,19,logistic_l2
+PSS,balanced L2 one-vs-rest logistic regression,0.5797903816881089,train_selected_fixed,19,logistic_l2
+ISI,balanced L2 one-vs-rest logistic regression,0.22201944643049032,train_selected_fixed,19,logistic_l2
+PHQ-9,"balanced CART, depth 6",0.40931829631862066,short_forms,19,cart
+GAD-7,"balanced CART, depth 6",0.2044739737673485,short_forms,19,cart
+PSS,"balanced CART, depth 6",0.6194394760218375,short_forms,19,cart
+ISI,"balanced CART, depth 6",0.303253334795542,short_forms,19,cart
+PHQ-9,balanced L2 one-vs-rest logistic regression,0.33611798519001085,short_forms,19,logistic_l2
+GAD-7,balanced L2 one-vs-rest logistic regression,0.09722905731522084,short_forms,19,logistic_l2
+PSS,balanced L2 one-vs-rest logistic regression,0.543766083429354,short_forms,19,logistic_l2
+ISI,balanced L2 one-vs-rest logistic regression,0.25781862443654857,short_forms,19,logistic_l2

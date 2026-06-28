@@ -1,0 +1,5 @@
+Scale,True elevated-score cases,Flagged cases,Positive predictive value,Recall,Specificity,False-positive rate
+PHQ-9,195,293,0.645,0.969,0.97,0.03
+GAD-7,84,92,0.891,0.976,0.997,0.003
+PSS,424,1430,0.276,0.932,0.679,0.321
+ISI,39,67,0.522,0.897,0.991,0.009

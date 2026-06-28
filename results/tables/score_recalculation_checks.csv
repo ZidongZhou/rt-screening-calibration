@@ -1,0 +1,5 @@
+scale,score_recalculation_rule,score_column_min,score_column_max,n_score_mismatches,mismatch_handling
+PHQ-9,sum(question),0,27,0,released score column retained for labels
+GAD-7,sum(question),0,21,0,released score column retained for labels
+PSS,sum(question)-14,0,56,1,released score column retained for labels
+ISI,sum(question),0,28,0,released score column retained for labels

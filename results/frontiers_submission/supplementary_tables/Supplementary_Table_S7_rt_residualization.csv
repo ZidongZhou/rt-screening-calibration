@@ -1,0 +1,5 @@
+Residual model,Training R²,Residual SD,5th percentile,Median,95th percentile
+"Content model, 0.5-99.5% winsorization",0.038,0.647,-1.593,-0.027,1.655
+"Item fixed-effect model, 0.5-99.5% winsorization",0.172,0.6,-1.619,-0.039,1.66
+"Scale-specific content model, 0.5-99.5% winsorization",0.086,0.63,-1.607,-0.029,1.655
+"Content model, 1-99% winsorization",0.039,0.636,-1.615,-0.023,1.688

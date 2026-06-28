@@ -1,0 +1,5 @@
+Held-out scale,"Confidence only, PR-AUC","Confidence + RT, PR-AUC","Confidence + shuffled RT, PR-AUC"
+PHQ-9,0.205,0.154,0.18
+GAD-7,0.642,0.082,0.385
+PSS,0.484,0.39,0.473
+ISI,0.243,0.158,0.223

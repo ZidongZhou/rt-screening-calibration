@@ -1,0 +1,6 @@
+file,n_rows,n_missing_values,duplicate_export_id,id_consistent_with_demographic,n_question_columns,n_time_columns,min_response_time,max_response_time,negative_response_times
+demographic.csv,24292,0,0,True,0,0,,,0
+phq9.csv,24292,0,0,True,9,9,0.01,5370.34,0
+gad7.csv,24292,0,0,True,7,7,0.01,5266.93,0
+pss.csv,24292,0,0,True,14,14,0.01,13768.5,0
+isi.csv,24292,0,0,True,7,7,0.0,6321.19,0

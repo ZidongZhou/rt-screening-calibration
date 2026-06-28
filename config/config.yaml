@@ -1,0 +1,43 @@
+seed: 20240609
+splits:
+  train: 0.70
+  val: 0.15
+  test: 0.15
+budgets: [11, 19, 26]
+random_repeats: 50
+calibration_grid: [1.0, 1.25, 1.5, 1.75, 2.0, 2.25, 2.5, 2.75, 3.0, 3.5, 4.0, 4.5, 5.0, 6.0]
+leakage_audit:
+  participants: 100
+  repeats: 20
+  prefix_lengths: [4, 8, 11, 19]
+rt_winsor:
+  lower_pct: 0.5
+  upper_pct: 99.5
+labels:
+  phq9:
+    classes: [minimal, mild, moderate, moderately_severe, severe]
+    cutoffs: [0, 5, 10, 15, 20, 28]
+    high_risk_index: 2
+  gad7:
+    classes: [minimal, mild, moderate, severe, very_severe]
+    cutoffs: [0, 5, 10, 14, 19, 22]
+    high_risk_index: 2
+  pss:
+    classes: [low, moderate, high, very_high]
+    cutoffs: [0, 15, 29, 43, 57]
+    high_risk_index: 2
+  isi:
+    classes: [no_clinically_significant, subthreshold, clinical_moderate, clinical_severe]
+    cutoffs: [0, 8, 15, 22, 29]
+    high_risk_index: 2
+
+selective_audit:
+  budget: 19
+  escalation_rates: [0.05, 0.10, 0.20, 0.30]
+  random_repeats: 200
+  audit_frame_chunk_size: 500
+  max_train_participants: 5000
+  overconfidence_quantile: 0.75
+  error_detector_C_grid: [0.1, 1.0, 10.0]
+  bootstrap_repeats: 300
+  run_full_train_sensitivity: false

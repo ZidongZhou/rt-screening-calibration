@@ -1,0 +1,4 @@
+leakage_audit:
+  participants: 100
+  repeats: 20
+  prefix_lengths: [4, 8, 11, 19]

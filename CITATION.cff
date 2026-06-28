@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Response-Time Process Signals for Selective Escalation in Reduced-Item Mental-Health Symptom Screening"
+message: "If you use this code, please cite the accompanying manuscript and the original public response-time questionnaire dataset."
+type: software
+authors:
+  - family-names: Zhou
+    given-names: Zidong
+  - family-names: Liu
+    given-names: Cheng
+  - family-names: Wang
+    given-names: Xuanhe
+year: 2026
+repository-code: "https://github.com/ZidongZhou/rt-screening-calibration"
+license: MIT
+references:
+  - type: dataset
+    title: "Data from: Temporal dynamics in psychological assessments: A novel dataset with scales and response times"
+    doi: "10.5281/zenodo.10423537"
+    version: "v2"
+    license: "CC-BY-4.0"

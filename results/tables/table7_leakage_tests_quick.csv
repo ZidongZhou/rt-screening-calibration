@@ -1,0 +1,7 @@
+test,status,details
+split disjointness,PASS,no overlap across train/validation/test participant IDs
+RT residual train-only fit,PASS,fit participant IDs are a subset of train IDs
+future responses excluded from actual policy,PASS,40/40 policy simulations unchanged
+future RT excluded from actual policy,PASS,40/40 policy simulations unchanged
+post-hoc full GMM excluded,PASS,adaptive feature list excludes full-response cluster labels
+fixed-prefix prediction invariance,PASS,10 participants unchanged after future response/RT permutation

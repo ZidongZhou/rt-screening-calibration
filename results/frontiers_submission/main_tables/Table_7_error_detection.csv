@@ -1,0 +1,9 @@
+Outcome,Predictor set,PR-AUC,ROC-AUC
+"Short-form disagreement (n = 2,270)",Confidence only,0.467,0.863
+"Short-form disagreement (n = 2,270)",Response time only,0.409,0.812
+"Short-form disagreement (n = 2,270)",Confidence + response time,0.488,0.868
+"Short-form disagreement (n = 2,270)",Confidence + shuffled response time,0.439,0.86
+Overconfident wrong decision (n = 579),Confidence only,0.54,0.952
+Overconfident wrong decision (n = 579),Response time only,0.557,0.886
+Overconfident wrong decision (n = 579),Confidence + response time,0.772,0.958
+Overconfident wrong decision (n = 579),Confidence + shuffled response time,0.492,0.919

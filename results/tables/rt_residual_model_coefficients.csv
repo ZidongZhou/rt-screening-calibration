@@ -1,0 +1,33 @@
+model,term,coefficient
+content_adjusted,intercept,1.1177790707674733
+content_adjusted,word_count,0.016121298286197044
+content_adjusted,within_scale_position,-4.695435982145137e-05
+content_adjusted,global_position,0.0004697010215718413
+content_adjusted,scale_gad7,-0.05507649206460423
+content_adjusted,scale_isi,-0.0003389122021476155
+content_adjusted,scale_phq9,0.02376712614001082
+content_adjusted,scale_pss,0.03164827812664862
+response_conditioned,intercept,0.9619056129368142
+response_conditioned,word_count,0.016240585128323045
+response_conditioned,within_scale_position,-0.0001877617001881729
+response_conditioned,global_position,0.00038858938222900203
+response_conditioned,item_response,0.0074529761648912535
+response_conditioned,age,0.0035235571289479934
+response_conditioned,scale_gad7,-0.05083392594228039
+response_conditioned,scale_isi,0.0043103897392771364
+response_conditioned,scale_phq9,0.025975411678951704
+response_conditioned,scale_pss,0.020548124524023246
+response_conditioned,gender_female,0.09327323906064851
+response_conditioned,gender_male,-0.09327323906064625
+response_conditioned,edu_associate degree,0.17359010243791845
+response_conditioned,edu_bachelor's degree,0.08120179967181985
+response_conditioned,edu_doctorate degree,-0.2098320202667513
+response_conditioned,edu_master's degree,-0.044959881842995396
+response_conditioned,smoke_current smoker (cumulative smoking >10 packs),0.04957261503610998
+response_conditioned,"smoke_former smoker (cumulative smoking >10 packs), but not in the past year",-0.05391182980480645
+response_conditioned,smoke_never smokes,0.011766808256552611
+response_conditioned,smoke_occasional smoker (cumulative smoking <10 packs),-0.007427593487866744
+response_conditioned,drink_current regular drinker (more than once a week),-0.02179491372608055
+response_conditioned,"drink_drank in the past (more than once a week), but not in the past year",0.06735240204382274
+response_conditioned,drink_drinks occasionally (less than once a week),0.03292011385324784
+response_conditioned,drink_never drinks,-0.07847760217098844

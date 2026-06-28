@@ -1,0 +1,10 @@
+Item budget,Variant,Macro-F1,Elevated-score recall,Brier score,ECE*
+11,Response-only,0.632,0.881,0.298,0.101
+11,RT calibration-only,0.632,0.881,0.29,0.088
+11,RT score-adjusted,0.624,0.872,0.286,0.094
+19,Response-only,0.689,0.944,0.26,0.098
+19,RT calibration-only,0.689,0.944,0.25,0.083
+19,RT score-adjusted,0.676,0.937,0.247,0.079
+26,Response-only,0.809,0.946,0.184,0.061
+26,RT calibration-only,0.809,0.946,0.178,0.048
+26,RT score-adjusted,0.765,0.87,0.173,0.047

@@ -1,0 +1,6 @@
+stage,seconds,note
+validate data,<5,lightweight CSV checks
+build long format and fit RT residuals,environment dependent,generates local processed cache
+response-state summaries,optimized vectorized implementation,previous bottleneck removed
+policy evaluation and bootstrap,heaviest stages,runtime depends on CPU; summary outputs are included
+full leakage audit,optional heavier rerun,100 participants x 20 repeats x 4 prefixes; quick pytest writes separate quick table

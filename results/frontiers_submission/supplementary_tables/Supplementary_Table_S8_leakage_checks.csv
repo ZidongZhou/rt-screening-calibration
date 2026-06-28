@@ -1,0 +1,8 @@
+Audit,Evidence,Status
+Stepwise response perturbation,475/475 prefix checks,PASS
+Stepwise RT perturbation,475/475 prefix checks,PASS
+Full response perturbation,8000/8000 policy simulations unchanged,PASS
+Full RT perturbation,8000/8000 policy simulations unchanged,PASS
+Split identifiers,no overlap across train/validation/test participant IDs,PASS
+RT residual training only,fit participant IDs are a subset of train IDs,PASS
+Fixed-prefix prediction invariance,100 participants unchanged after future response/RT permutation,PASS

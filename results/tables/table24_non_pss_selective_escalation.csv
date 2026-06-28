@@ -1,0 +1,5 @@
+Strategy,"Errors, n","OCW, n",Error capture %,OCW capture %
+Random selection,707,87,20.1,20.1
+Lowest confidence,707,87,36.6,24.1
+RT process score,707,87,11.9,17.2
+Confidence + RT (OCW),707,87,32.2,77.0

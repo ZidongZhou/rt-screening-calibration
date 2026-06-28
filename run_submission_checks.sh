@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+export PYTHONPATH="$(pwd)/src:${PYTHONPATH:-}"
+python scripts/check_expected_outputs.py
+python scripts/check_frontiers_submission_outputs.py
